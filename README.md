@@ -14,3 +14,4 @@ int/pole2/cam_back.txt为2号设备相机的内参。
 ![Screenshot from 2024-02-28 15-33-41](https://github.com/chenzhiwei888/InfraCalib-Dataset/assets/49259977/e163c55d-5e62-4dfb-8b51-01bc4b876411)
 
 每小组数据内部文件pole1_main2pole2_main为1号设备主雷达到2号设备主雷达之间的外参。
+数据持续优化中！
